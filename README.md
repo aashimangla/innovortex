@@ -1,14 +1,16 @@
 # Innovortex
 Reimagathon: Problem Statement 02: DUV International
 ## Table of Contents
-- [Features](#links)
-- [Installation](#installation)
-- [Usage](#usage)
+- [ intuitive and attractive design]
+- user friendly
+- easy access
+- inclusive
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- links
+- redirect and buttons
+- feedback forms
+- images and logos
 
 ## Installation
 
