@@ -25,4 +25,4 @@ Reimagathon: Problem Statement 02: DUV International
 ### STEPS
 1. Clone the repository:
    ```bash
-  https://github.com/aashimangla/innovortex
+   https://github.com/aashimangla/innovortex
