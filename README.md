@@ -26,3 +26,6 @@ Reimagathon: Problem Statement 02: DUV International
 1. Clone the repository:
    ```bash
    https://github.com/aashimangla/innovortex
+
+### example code
+[vs code]  (http://127.0.0.1:5500/.vscode/new.html#)
