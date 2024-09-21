@@ -1,10 +1,10 @@
 # Innovortex
 Reimagathon: Problem Statement 02: DUV International
 ## Table of Contents
-- [ intuitive and attractive design]
 - user friendly
 - easy access
 - inclusive
+-  intuitive and attractive design
 
 ## Features
 - links
@@ -15,9 +15,14 @@ Reimagathon: Problem Statement 02: DUV International
 ## Installation
 
 ### Prerequisites
-- List any prerequisites for your project (e.g., Node.js, Python, etc.).
+- HTML
+- CSS
+- JAVA SCRIPT
+- MY SQL
+- CSS
+- C/C++
 
-### Steps
+### STEPS
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
+  https://github.com/aashimangla/innovortex
